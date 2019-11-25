@@ -31,3 +31,12 @@ node server.js
 Launch the app by entering http://localhost:8080 in your browser.
 Author
 Shehryar Ehtesham
+
+Here are screenshots to the working applicaton 
+
+![Screen Shot 2019-11-25 at 6 26 14 PM](https://user-images.githubusercontent.com/52334515/69586694-5e10aa80-0fb1-11ea-9343-1d86d519f0dc.png)
+
+![Screen Shot 2019-11-25 at 6 26 46 PM](https://user-images.githubusercontent.com/52334515/69586699-61a43180-0fb1-11ea-9bfc-3c0c780e50d1.png)
+
+![Screen Shot 2019-11-25 at 6 27 24 PM](https://user-images.githubusercontent.com/52334515/69586705-6668e580-0fb1-11ea-898e-9f0400ccd7dd.png)
+
